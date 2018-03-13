@@ -1,0 +1,2 @@
+# privacypolicy
+host privacy policy
